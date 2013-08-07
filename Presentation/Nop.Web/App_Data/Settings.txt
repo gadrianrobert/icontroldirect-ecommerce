@@ -1,2 +1,2 @@
 DataProvider: sqlserver
-DataConnectionString: Data Source=gadrianrobert.no-ip.biz;Initial Catalog=IControl-Direct;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=admin;MultipleActiveResultSets=True
+DataConnectionString: Data Source=localhost;Initial Catalog=IControl-Direct;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=admin;MultipleActiveResultSets=True

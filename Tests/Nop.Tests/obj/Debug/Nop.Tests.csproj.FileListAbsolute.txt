@@ -1,0 +1,9 @@
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb
