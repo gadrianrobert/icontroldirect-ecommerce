@@ -1,0 +1,8 @@
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.XmlSerializers.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Shipping.Fedex\obj\Release\Nop.Plugin.Shipping.Fedex.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Shipping.Fedex\obj\Release\Nop.Plugin.Shipping.Fedex.XmlSerializers.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Shipping.Fedex\obj\Release\Nop.Plugin.Shipping.Fedex.pdb

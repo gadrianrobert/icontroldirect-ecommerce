@@ -1,0 +1,5 @@
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Release\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Release\Nop.Plugin.DiscountRules.HasOneProduct.pdb

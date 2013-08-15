@@ -17,6 +17,5 @@ D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Core\bin\Debug
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.xml
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
-D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojResolveAssemblyReference.cache
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb

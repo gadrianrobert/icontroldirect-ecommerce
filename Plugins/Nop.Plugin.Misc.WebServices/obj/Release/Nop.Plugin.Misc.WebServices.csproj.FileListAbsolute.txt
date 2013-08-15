@@ -1,0 +1,7 @@
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Misc.WebServices\obj\Release\Nop.Plugin.Misc.WebServices.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Misc.WebServices\obj\Release\Nop.Plugin.Misc.WebServices.pdb

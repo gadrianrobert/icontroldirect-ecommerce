@@ -1,0 +1,17 @@
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\Nop.Data.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\EntityFramework.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\Nop.Core.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\System.Data.SqlServerCe.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\System.Data.SqlServerCe.Entity.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\Autofac.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\Autofac.Integration.Mvc.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\EntityFramework.xml
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\Autofac.xml
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\Autofac.Integration.Mvc.xml
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\obj\Release\Nop.Data.csprojResolveAssemblyReference.cache
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\obj\Release\Nop.Data.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Deployable\nop_3.10\bin\Nop.Data.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Deployable\nop_3.10\Administration\bin\Nop.Data.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\Nop.Data.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\bin\Release\Nop.Core.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Libraries\Nop.Data\obj\Release\Nop.Data.pdb

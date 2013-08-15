@@ -1,0 +1,8 @@
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.XmlSerializers.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Release\Nop.Plugin.Shipping.UPS.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Release\Nop.Plugin.Shipping.UPS.XmlSerializers.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Release\Nop.Plugin.Shipping.UPS.pdb

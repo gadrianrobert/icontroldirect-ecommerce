@@ -1,0 +1,5 @@
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\Nop.Plugin.Payments.CheckMoneyOrder.pdb

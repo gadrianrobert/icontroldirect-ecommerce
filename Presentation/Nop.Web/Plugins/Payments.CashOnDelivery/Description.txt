@@ -1,5 +1,5 @@
-Group: Payment methods
-FriendlyName: Plata la livrare (Ramburs)
+﻿Group: Payment methods
+FriendlyName: Cash On Delivery (COD)
 SystemName: Payments.CashOnDelivery
 Version: 1.08
 SupportedVersions: 3.10

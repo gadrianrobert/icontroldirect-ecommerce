@@ -1,0 +1,8 @@
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Release\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Release\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Release\Nop.Plugin.ExternalAuth.Facebook.pdb

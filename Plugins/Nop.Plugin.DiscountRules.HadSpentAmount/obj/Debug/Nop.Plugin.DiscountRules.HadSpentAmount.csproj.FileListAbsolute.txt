@@ -1,5 +1,6 @@
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Description.txt
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csprojResolveAssemblyReference.cache
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.dll
 D:\Development\2013\GitHub\icontroldirect-ecommerce\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
