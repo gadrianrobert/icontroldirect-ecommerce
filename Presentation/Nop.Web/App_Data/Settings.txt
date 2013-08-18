@@ -1,2 +1,0 @@
-DataProvider: sqlserver
-DataConnectionString: Data Source=lin.arvixe.com;Initial Catalog=IControl-Direct-Development;Integrated Security=False;Persist Security Info=False;User ID=webvisitor;Password=webvisitor;MultipleActiveResultSets=True
